@@ -1,0 +1,9 @@
+ACSC182 – EXERCISES ON FUNCTIONS
+Exercise 1 - Range
+Write a function that once you give it a number range, it prints out the even and the odd numbers within this range.
+Exercise 2 - Sort
+Write a function which sorts out three numbers that you give to it as parameters in ascending order.
+Exercise 3 - Multiplication
+Write a function which nicely outputs the multiplication tables.
+Exercise 4 - Doubler
+Write a function which takes as parameter(s) a number or a sequence of numbers and returns this/these number(s) double.
